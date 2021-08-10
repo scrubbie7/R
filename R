@@ -1,0 +1,17 @@
+{
+  "title": "SW",
+  "description": "no",
+  "artist": "no",
+  "author": "no",
+  "cover": "https://i.imgur.com/D3Ch9o0.png",
+  "chapters": {
+    "1": {
+      "title": "Yell",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/KYjX8HZ/"
+      },
+      "last_updated": "1616368746"
+    }
+   }
+  }
