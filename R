@@ -14,26 +14,18 @@
       "last_updated": "1616368746"
     },
     "2": {
-      "title": "R",
+      "title": "1R",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/4T6E3zP/"
       },
       "last_updated": "1616368746"
     },
-    "2": {
-      "title": "3R",
-      "volume": "0",
-      "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/l0bJglg/"
-      },
-      "last_updated": "1616368746"
-    },
-    "2": {
+    "3": {
       "title": "2R",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/4T6E3zP/"
+        "<group name>": "/proxy/api/imgur/chapter/l0bJglg/"
       },
       "last_updated": "1616368746"
     }
